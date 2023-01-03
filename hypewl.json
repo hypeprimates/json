@@ -3,7 +3,7 @@
   "symbol": "HYPE",
   "description": "The Embassy is made up of 2223 young primates. We are professional investors and builders with fresh ideas that will revolutionize the NFT ecosystem in both a rising and falling market, providing passive income to holders.",
   "seller_fee_basis_points": 100,
-  "external_url": "https://hypeprimatesmint.netlify.app",
+  "external_url": "https://hypeprimates.web.app",
   "edition": "Alpha",
   "background_color": "000000",
   "attributes": [
@@ -20,7 +20,7 @@
     "category": "image",
     "creators": [
       {
-        "address": "mag1cqJMr5WeycmET2UyLU5ZEH3uNUCnvMywBdUxAm5",
+        "address": "BNsY6jvPY7sYWs9Jm6EWf59Ep2y7Gu1trtFVKPVimRXH",
         "share": 100
       }
     ],
